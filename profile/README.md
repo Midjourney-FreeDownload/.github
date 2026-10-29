@@ -15,7 +15,7 @@
 
 Midjourney's images win every comparison — and its interface loses every one. This Windows build gives you the full V7 model in a proper desktop app: no Discord commands, no $10-a-month toll, no fast-hours budget ticking down while you experiment.
 
-<img src="https://raw.githubusercontent.com/Midjourney-FreeDownload/.github/main/profile/preview.jpg" alt="Midjourney V7 artwork" width="100%">
+<img src="https://raw.githubusercontent.com/Midjourney-FreeDownload/.github/main/profile/preview-v2.jpg" alt="Midjourney V7 artwork" width="100%">
 
 ## The controls, minus the slash-command pain
 
@@ -27,7 +27,7 @@ Midjourney's images win every comparison — and its interface loses every one. 
 | **Vary / Upscale** | Reroll regions, enlarge winners | Buttons under every image |
 | **Style references** | Match an image's look (`--sref`) | Drag & drop a picture |
 
-| <img src="https://raw.githubusercontent.com/Midjourney-FreeDownload/.github/main/profile/shot2.jpg" alt="Midjourney surreal artwork"> | <img src="https://raw.githubusercontent.com/Midjourney-FreeDownload/.github/main/profile/shot3.jpg" alt="Midjourney detailed illustration"> |
+| <img src="https://raw.githubusercontent.com/Midjourney-FreeDownload/.github/main/profile/shot2-v2.jpg" alt="Midjourney surreal artwork"> | <img src="https://raw.githubusercontent.com/Midjourney-FreeDownload/.github/main/profile/shot3.jpg" alt="Midjourney detailed illustration"> |
 | :---: | :---: |
 | *Surreal scenes, house style* | *Detail that survives upscaling* |
 
