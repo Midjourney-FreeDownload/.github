@@ -29,8 +29,6 @@ Midjourney's images win every comparison — and its interface loses every one. 
 | `--stylize` | Midjourney's signature artistry | Slider with live preview |
 | `--ar` | Aspect ratio | One-click presets |
 
-| :---: | :---: |
-
 ## Why people switch
 
 - **Unlimited generations** — explore a hundred variations, keep one
