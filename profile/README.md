@@ -27,7 +27,7 @@ Midjourney's images win every comparison — and its interface loses every one. 
 | **Vary / Upscale** | Reroll regions, enlarge winners | Buttons under every image |
 | **Style references** | Match an image's look (`--sref`) | Drag & drop a picture |
 
-| <img src="https://raw.githubusercontent.com/Midjourney-FreeDownload/.github/main/profile/shot2-v2.jpg" alt="Midjourney surreal artwork"> | <img src="https://raw.githubusercontent.com/Midjourney-FreeDownload/.github/main/profile/shot3.jpg" alt="Midjourney detailed illustration"> |
+| <img src="https://raw.githubusercontent.com/Midjourney-FreeDownload/.github/main/profile/shot2-v2.jpg" alt="Midjourney surreal artwork"> | <img src="https://raw.githubusercontent.com/Midjourney-FreeDownload/.github/main/profile/shot3-v2.jpg" alt="Midjourney detailed illustration"> |
 | :---: | :---: |
 | *Surreal scenes, house style* | *Detail that survives upscaling* |
 
